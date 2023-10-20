@@ -80,8 +80,7 @@ describe('Bottles', () => {
   });
 
   test.skip('the whole song', () => {
-    const expected =
-`99 bottles of beer on the wall, 99 bottles of beer.
+    const expected = `99 bottles of beer on the wall, 99 bottles of beer.
 Take one down and pass it around, 98 bottles of beer on the wall.
 
 98 bottles of beer on the wall, 98 bottles of beer.
